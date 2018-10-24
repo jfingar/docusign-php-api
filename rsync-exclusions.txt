@@ -1,0 +1,10 @@
+.DS_Store
+docker/
+*.sh
+docker-compose.yml
+rsync-exclusions.txt
+.git/
+.gitignore
+.project
+.idea/
+vendor/
